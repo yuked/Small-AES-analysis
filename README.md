@@ -1,4 +1,4 @@
-# Small-AES-truncated_differential
+# Small-AES-truncated_differential_analysis
 This is my **undergraduate graduation project** from the School of Cyberspace Security at Shandong University,under the guidance of **Dr. Wang Wei**.
 
 In the first part, I successfully implemented the **Small-AES** scheme based on the specifications provided by Cid et al. in their paper *"Small Scale Variants of the AES"*(FSE 2005).<br>
