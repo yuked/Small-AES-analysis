@@ -1,6 +1,6 @@
 # Small-AES-truncated_differential_analysis
 
-```sh
+```python
 Personal project, not for other purposes
 ```
 
