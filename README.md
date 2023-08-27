@@ -1,7 +1,7 @@
 # Small-AES-truncated_differential_analysis
 
 ```python
-Personal project, not for other purposes
+Declaration：Personal project, not for other purposes
 ```
 
 ### overview
