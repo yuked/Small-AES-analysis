@@ -1,4 +1,4 @@
-# Small-AES-truncated_differential_analysis
+# Small-AES truncated differential analysis
 
 ```python
 Declaration：Personal project, not for other purposes
